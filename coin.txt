@@ -1,0 +1,10 @@
+Jane 30
+Jack 50
+Thomas 100
+Dan 120
+Greg 10
+Mandy 5
+Kate 15
+Adam 150
+Adam 150
+Adam 150
